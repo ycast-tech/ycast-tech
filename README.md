@@ -3,6 +3,11 @@
 <h2>🌱 I’m currently learning <a href="https://www.freecodecamp.org/ycast_tech">web development</a> </h2> 
 
 <h2>🔭 I’m currently working on Google's Cybersecurity Professional Certificate</h2> 
+
+<h2>📜Certifications:</h2> 
+  <!-- [Google Cybersecurity Professional]**-->
+  - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MSKZWB2T5YVT">Google IT Support Professional</a></b> 
+
 <!--
 **ycast-tech/ycast-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
