@@ -1,6 +1,6 @@
 <h1>Hi, I'm Yeison! <br/><a href="https://www.linkedin.com/in/yeison-tech/">Cybersecurity Undergraduate</a></h1>
 
-<h2>🌱 I’m currently learning <a href="https://www.freecodecamp.org/ycast_tech">web development</a> </h2> 
+<h2>🌱 I’m currently learning <a href="https://www.freecodecamp.org/ycast_tech" target="_blank">web development</a> </h2> 
 
 <h2>🔭 I’m currently working on Google's Cybersecurity Professional Certificate</h2> 
 
