@@ -9,7 +9,7 @@
   - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MSKZWB2T5YVT">Google IT Support Professional</a></b> 
 <h2>👨‍💻 Certification Projects:</h2>
   - <a href="https://github.com/ycast-tech/InternalSecurityAudit/blob/main/README.md">Internal Security Audit<br/></a>
-  - <a href="https://github.com/ycast-tech/CybersecurityInsidentReport">Cybersecurity Incident Report</a>
+  - <a href="https://github.com/ycast-tech/CybersecurityInsidentReport">Network Traffic Analysis</a>
   
 <!--
 **ycast-tech/ycast-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
