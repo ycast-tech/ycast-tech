@@ -1,10 +1,7 @@
-<h1>Hi, I'm Yeison!</h1>
-  
-<br/>
+## Hi, I'm Yeison! <br> <a href="https://www.linkedin.com/in/yeison-tech/">Cybersecurity Undergraduate</a></h1>
 
-<a href="https://www.linkedin.com/in/yeison-tech/">Cybersecurity Undergraduate</a></h1>
-
-<h2>🌱 I’m currently learning <a href="https://www.freecodecamp.org/ycast_tech" >web development</a> </h2> 
+## 🌱 I’m currently learning 
+<a href="https://www.freecodecamp.org/ycast_tech" >web development</a>
 
 <h2>🔭 I’m currently working on Google's Cybersecurity Professional Certificate</h2> 
 
@@ -23,7 +20,11 @@
   - How to read <a href="https://github.com/ycast-tech/ReadingWiresharkLogs">Wireshark logs</a>
 
 <h2>📫Social Media</h2>
-[![Github Badge] (https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ycast-tech)] (https://github.com/ycast-tech)
+
+![linkedin badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeison-tech/)
+
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ycast-tech)
+
 <!--
 **ycast-tech/ycast-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
