@@ -21,7 +21,7 @@
 
 <h2>📫Social Media</h2>
 
-![linkedin badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeison-tech/)
+[![linkedin badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeison-tech/)](https://www.linkedin.com/in/yeison-tech/)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ycast-tech)](https://github.com/ycast-tech)
 
