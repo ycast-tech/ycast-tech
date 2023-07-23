@@ -1,7 +1,7 @@
 ## Hi, I'm Yeison! <br> <a href="https://www.linkedin.com/in/yeison-tech/">Cybersecurity Undergraduate</a>
 
 
-## 🔭 I’m currently working on 
+## 🔭 I’m currently learning 
 
 - Google Cybersecurity Professional Certificate
 - IBM Cybersecurity Analyst Professional Certificate
