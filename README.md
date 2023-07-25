@@ -28,13 +28,17 @@
   - <a href="https://github.com/ycast-tech/BruteForceAndOSHardening">Brute Force Attack and OS Hardening Techniques <br/></a>
 
 
-<h2>📫Social Media</h2>
+## 📫Social Media
 
 [![linkedin badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeison-tech/)](https://www.linkedin.com/in/yeison-tech/)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ycast-tech)](https://github.com/ycast-tech)
 
 [![FreeCodeCamp Badge](https://img.shields.io/badge/-freecodecamp-000?style=flat-square&logo=freecodecamp&logoColor=white&link=https://www.freecodecamp.org/ycast_tech)](https://www.freecodecamp.org/ycast_tech)
+
+## Github Stats
+
+[![Yeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycast-tech&hide=prs,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ycast-tech/ycast-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
