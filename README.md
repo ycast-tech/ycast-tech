@@ -17,9 +17,10 @@
   
 ## 👨‍💻 Certification Projects
 
-
 - <a href="https://github.com/ycast-tech/NISTCSF-practice/">NIST CSF in practice</a>
-- <a href="https://github.com/ycast-tech/Practicing-Linux">Linux Practice</a>
+- <a href="https://github.com/ycast-tech/Managing-Users-On-Linux">Managing Users on Linux</a>
+- <a href="https://github.com/ycast-tech/Managing-Linux-File-Permissions">Managing File Permissions On Linux</a>
+
 ## 🧑‍💻Personal Projects
   - How to read <a href="https://github.com/ycast-tech/ReadingWiresharkLogs">Wireshark logs</a>
   - <a href="https://github.com/ycast-tech/InternalSecurityAudit">Internal Security Audit<br/></a>
@@ -32,7 +33,7 @@
   </summary>
   
   ### Personal projects
-  - <a href="https://youtube.com">project 1</a>
+  - <a href="https://github.com/ycast-tech/Practicing-Linux">Linux Practice</a>
   - <a href="https://google.com">project 2</a>
   - <a href="https://google.com">project 3</a>
 
