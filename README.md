@@ -20,6 +20,7 @@
 - <a href="https://github.com/ycast-tech/NISTCSF-practice/">NIST CSF in practice</a>
 - <a href="https://github.com/ycast-tech/Managing-Users-On-Linux">Managing Users on Linux</a>
 - <a href="https://github.com/ycast-tech/Managing-Linux-File-Permissions">Managing File Permissions On Linux</a>
+- <a href="https://github.com/ycast-tech/Filtering-SQL-Queries">Filtering Data in SQL</a>
 
 ## 🧑‍💻Personal Projects
   - <a href="https://github.com/ycast-tech/Simple-SQL-Queries/tree/main">SQL Queries</a>
