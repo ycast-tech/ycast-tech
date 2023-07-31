@@ -27,7 +27,7 @@
   - <a href="https://github.com/ycast-tech/CybersecurityIncidentReport">Cybersecurity Incident Report<br/></a>
   - <a href="https://github.com/ycast-tech/BruteForceAndOSHardening">Brute Force Attack and OS Hardening Techniques <br/></a>
   - <a href="https://github.com/ycast-tech/NetworkTrafficAnalysis">Network Traffic Analysis<br/></a>
-  - <a href="https://github.com/ycast-tech/InternalSecurityAudit">Internal Security Audit<br/></a>
+  - <a href="https://github.com/ycast-tech/Decryption-Lab">Decription Laab</a>
   
   
   <details>
@@ -38,8 +38,7 @@
   ### More personal projects
   - <a href="https://github.com/ycast-tech/Practicing-Linux">Linux Practice</a>
   - <a href="https://github.com/ycast-tech/ReadingWiresharkLogs">How to read Wireshark logs</a>
-  - <a href="https://google.com">project 3</a>
-
+  - <a href="https://github.com/ycast-tech/InternalSecurityAudit">Internal Security Audit<br/></a>
 
 
     
