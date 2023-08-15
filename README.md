@@ -4,7 +4,6 @@
 ## 🔭 I’m currently learning 
 
 - Google Cybersecurity Professional Certificate
-- IBM Cybersecurity Analyst Professional Certificate
 - CompTIA A+
 - CompTIA Security+
 - <a href="https://www.freecodecamp.org/ycast_tech">Web Development</a>
@@ -27,7 +26,7 @@
   - <a href="https://github.com/ycast-tech/CybersecurityIncidentReport">Cybersecurity Incident Report<br/></a>
   - <a href="https://github.com/ycast-tech/BruteForceAndOSHardening">Brute Force Attack and OS Hardening Techniques <br/></a>
   - <a href="https://github.com/ycast-tech/NetworkTrafficAnalysis">Network Traffic Analysis<br/></a>
-  - <a href="https://github.com/ycast-tech/Decryption-Lab">Decription Laab</a>
+  - <a href="https://github.com/ycast-tech/Decryption-Lab">Decription Lab</a>
   
   
   <details>
@@ -36,6 +35,7 @@
   </summary>
   
   ### More personal projects
+  - <a href="">Incident Handlers Manual</a>
   - <a href="https://github.com/ycast-tech/Practicing-Linux">Linux Practice</a>
   - <a href="https://github.com/ycast-tech/ReadingWiresharkLogs">How to read Wireshark logs</a>
   - <a href="https://github.com/ycast-tech/InternalSecurityAudit">Internal Security Audit<br/></a>
