@@ -35,7 +35,7 @@
   </summary>
   
   ### More personal projects
-  - <a href="">Incident Handlers Manual</a>
+  - <a href="https://github.com/ycast-tech/Incident-handler-journal">Incident Handlers Journal</a>
   - <a href="https://github.com/ycast-tech/Practicing-Linux">Linux Practice</a>
   - <a href="https://github.com/ycast-tech/ReadingWiresharkLogs">How to read Wireshark logs</a>
   - <a href="https://github.com/ycast-tech/InternalSecurityAudit">Internal Security Audit<br/></a>
