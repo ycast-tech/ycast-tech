@@ -3,14 +3,13 @@
 
 ## 🔭 I’m currently learning 
 
-- Google Cybersecurity Professional Certificate
 - CompTIA A+
 - CompTIA Security+
 - <a href="https://www.freecodecamp.org/ycast_tech">Web Development</a>
 
 
 ## 📜Certifications 
-  <!-- [Google Cybersecurity Professional]**-->
+  - <b><a href="https://www.coursera.org/account/accomplishments/specialization/DYQJ9AVNWR3L">Google Cybersecurity Professional Certificate</a></b>
   - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MSKZWB2T5YVT">Google IT Support Professional</a></b> 
 
   
